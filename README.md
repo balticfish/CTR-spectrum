@@ -5,4 +5,4 @@ The method of calculation is described in our conference paper "Coherent Transit
 
 It includes both transverse and longitudinal charge contributions in comparison to the convetional 1D longitudinal approach. The conducting plate assumed to be infinite and can have any orientation in XYZ space (defined by its normal vector).
 
-User can run planar and 2D angular scans of the spectrum with loop1D.py or loop2D.py respectively.
+User can run planar and 2D spectral angular scans of the spectrum with scan_theta.py or scan_theta_phi.py respectively.
